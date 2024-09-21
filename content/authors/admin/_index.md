@@ -1,6 +1,6 @@
 ---
 # Display name
-title: KARTIKEYA CHITRANSHI
+title: Kartikeya Chitranshi
 
 # Full name (for SEO)
 first_name: Kartikeya
